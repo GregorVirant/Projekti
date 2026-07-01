@@ -1,4 +1,6 @@
 # Projekti
+## TCP Chess
+## Rock solid project
 ## Aktivni tempomat
 * Naredil sem aktivni tempomat, ki deluje na podlagi procesiranja slik.
 * Ta aktivni tempomat je bil vzpostavljen v simulaturju AIRSIM, kjer je moj program pridobival slike kamer in hitrostnega senzorja, s pomočjo teh podatkov pa je upravljal zavoro in pogon avtomobila.
@@ -11,6 +13,10 @@
 * Potem pa sem z nekaj funkcijami upravljal spremembe hitrosti avta in po potrebi varnostno zaviranje.
 <img width="1202" height="731" alt="image" src="https://github.com/user-attachments/assets/85852fb4-ba4c-4cf3-8cf6-2a7c3f5b49a3" />
 
+# 4 v vrsto in alfa-beta minmax
+* alfa-beta minmax
+* razne hevristične funkcije za izbolšanje nasprotnika
+<img width="549" height="761" alt="image" src="https://github.com/user-attachments/assets/a21efd15-99c0-4f46-84df-03b2fefdc7fa" />
 
 ## Nevronska mreža brez knjižnic
 * Program za zaznavo številk
