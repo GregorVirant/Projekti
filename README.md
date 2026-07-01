@@ -17,6 +17,17 @@
 * Implementirane (Xavier inicializacija in Sigmoid, He inicializacija in Relu, MSE Izgubna funkcija, Softmax, kategorična križna entropija)
 <img width="447" height="474" alt="image" src="https://github.com/user-attachments/assets/99c09881-9a43-4b8d-a52f-39db8684aadf" />
 
+## Q-Učenje
+* Implementacija Q-učenja
+* Prilagajanje Q-učenja za razne igre
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/14266c63-04a3-4c31-afe6-06ce0c47c964" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8d6dcef7-e451-463b-9ca4-421744594d8c" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3f4f67fb-8f3a-4e66-ab31-8cca86c654fe" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ec190df8-667e-406b-9362-829abfdc1544" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/22eff3e5-7bfc-4558-96c6-dd68a550fb62" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fff434ca-a0e6-449e-84a6-7ac5941ebe69" />
+
+
 ## Projekt v večji skupini
 * Testni projekt, za vajo sodelovanja
 * Skupina 15 ljudi
