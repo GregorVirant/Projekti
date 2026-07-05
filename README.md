@@ -46,6 +46,8 @@
 * Ta projekt je bil implementiran v skupini treh.
 
 ### Aktivni tempomat
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/85852fb4-ba4c-4cf3-8cf6-2a7c3f5b49a3" />
+
 * Naredil sem aktivni tempomat, ki deluje na podlagi procesiranja slik.
 * Ta aktivni tempomat je bil vzpostavljen v simulaturju AIRSIM, kjer je moj program pridobival slike kamer in hitrostnega senzorja, s pomočjo teh podatkov pa je upravljal zavoro in pogon avtomobila.
 * Tempomat je vzdževal časovno razdaljo med 2 in 3 sekunde.
@@ -55,7 +57,6 @@
 * Iz višine na kameri sem ugotovil razdaljo.
 * S pomočjo hitrosti in razdalje sem ugotovil časovno razdaljo.
 * Potem pa sem z nekaj funkcijami upravljal spremembe hitrosti avta in po potrebi varnostno zaviranje.
-<img width="1202" height="731" alt="image" src="https://github.com/user-attachments/assets/85852fb4-ba4c-4cf3-8cf6-2a7c3f5b49a3" />
 
 
 ### Projekt matura - Video igra Preobrazba
@@ -67,13 +68,7 @@
 * Vse fizike sem napisal sam
 * Vse texture sem narisal ročno  
 
-### Igra vojak
-* Vitezev cilj je razbiti čim večje število kock
-* Nekatere lahko razbije nekaterih ne more
-* Igra vsebuje tudi razne powerup-e kot so explozije
-* Vse spremembe so animirane, med animacijami se dinamično premikajo tudi točke za zaznavo kontaktov (hitboxi)
-* Implementirano v Java in LibGDX
-<img width="1274" height="719" alt="image" src="https://github.com/user-attachments/assets/0e49d52b-d65a-48f4-a1ce-e25e417c07e6" />
+
 
 ### Alarm za terminal (TUI)
 <img width="352" height="277" alt="image" src="https://github.com/user-attachments/assets/018de01d-cf43-484a-9721-2d36788f51cb" />
@@ -84,23 +79,36 @@
 * Alarmi so lahko ponovljivi ali ne, prav tako jih je možno izklopiti in vklopiti
 
 ### Admin aplikacije za urejanje podatkov o plezališčih v sloveniji in pridobivanje podatkov o plezališčih iz drugih strani
+
+<img width="829" height="670" alt="image" src="https://github.com/user-attachments/assets/a598c098-9f2c-408f-9216-6fdd2d0040d0" />
 * Omogoča pregled in urejanje podatkov v naši bazi
 * Vsebuje "web-scraper" za pridobivanje podatkov o plezališčih iz drugih straneh
 * Generator testnih podatkov
 * Implementirano v Kotlin in Kotlin Multiplatform
-<img width="829" height="670" alt="image" src="https://github.com/user-attachments/assets/a598c098-9f2c-408f-9216-6fdd2d0040d0" />
 
 ### Spletna stran s plezališči v sloveniji
+
+<img width="2101" height="763" alt="image" src="https://github.com/user-attachments/assets/44343795-20ab-49c4-b83d-6bac78b8c7bb" />
 * Prikaz plezališč in plezalnih poti v slovenskih plezališčih
 * Združevanje uporabnikov v plezalne skupine
 * NodeJS, Express, ReactJS
-<img width="2101" height="763" alt="image" src="https://github.com/user-attachments/assets/44343795-20ab-49c4-b83d-6bac78b8c7bb" />
 
 ### Zaznava plezalnih oprimkov na plezalni steni
+
+<img width="565" height="761" alt="image" src="https://github.com/user-attachments/assets/74d0b722-58ca-44e3-95b0-11bc6a176608" />
 * Dodatno treniranje YOLO modela
 * Del projekta rocksolid (trije člani)
 * Flask za vzpostavitev strežnika
-<img width="565" height="761" alt="image" src="https://github.com/user-attachments/assets/74d0b722-58ca-44e3-95b0-11bc6a176608" />
+
+### Igra vojak
+
+<img width="1274" height="719" alt="image" src="https://github.com/user-attachments/assets/0e49d52b-d65a-48f4-a1ce-e25e417c07e6" />
+
+* Vitezev cilj je razbiti čim večje število kock
+* Nekatere lahko razbije nekaterih ne more
+* Igra vsebuje tudi razne powerup-e kot so explozije
+* Vse spremembe so animirane, med animacijami se dinamično premikajo tudi točke za zaznavo kontaktov (hitboxi)
+* Implementirano v Java in LibGDX
 
 ### Igra kače in lojtre 
 <img width="1274" height="712" alt="image" src="https://github.com/user-attachments/assets/acd6f721-2302-4e30-ad93-120a56e89a7b" />
@@ -116,25 +124,31 @@
 * Dinamična povezava podatkov, ob spreminjanja v edit oknu se aktivno spreminja vsebina v glavnem oknu.
 
 ### 4 v vrsto in alfa-beta minmax
+
+<img width="549" height="761" alt="image" src="https://github.com/user-attachments/assets/a21efd15-99c0-4f46-84df-03b2fefdc7fa" />
+
 * implementirana igra štiri v vrsto v kateri igramo proti računalniškem nasprotniku
 * alfa-beta minmax algoritem za nasprotnika
 * razne hevristične funkcije za izbolšanje nasprotnika
-<img width="549" height="761" alt="image" src="https://github.com/user-attachments/assets/a21efd15-99c0-4f46-84df-03b2fefdc7fa" />
 
 ### Nevronska mreža brez knjižnic
-* Program za zaznavo številk
-* Implementirane (Xavier inicializacija in Sigmoid, He inicializacija in Relu, MSE Izgubna funkcija, Softmax, kategorična križna entropija)
+
 <img width="447" height="474" alt="image" src="https://github.com/user-attachments/assets/99c09881-9a43-4b8d-a52f-39db8684aadf" />
 
+* Program za zaznavo številk
+* Implementirane (Xavier inicializacija in Sigmoid, He inicializacija in Relu, MSE Izgubna funkcija, Softmax, kategorična križna entropija)
+
 ### Q-Učenje
-* Implementacija Q-učenja
-* Prilagajanje Q-učenja za razne igre
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/14266c63-04a3-4c31-afe6-06ce0c47c964" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8d6dcef7-e451-463b-9ca4-421744594d8c" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3f4f67fb-8f3a-4e66-ab31-8cca86c654fe" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ec190df8-667e-406b-9362-829abfdc1544" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/22eff3e5-7bfc-4558-96c6-dd68a550fb62" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fff434ca-a0e6-449e-84a6-7ac5941ebe69" />
+
+* Implementacija Q-učenja
+* Prilagajanje Q-učenja za razne igre
 
 ### Projekt v večji skupini
 * Testni projekt, za vajo sodelovanja
@@ -146,7 +160,12 @@
 ### Electron media player
 <img width="933" height="482" alt="image" src="https://github.com/user-attachments/assets/121be441-a449-45cf-9655-e75c01b0c1f7" />
 
-Prikaz števil ljudi na plezališčih na zemljevidu po katerem se premikamo v 3d prostoru
+### Prikaz števil ljudi na plezališčih na zemljevidu po katerem se premikamo v 3d prostoru
+<img width="871" height="499" alt="image" src="https://github.com/user-attachments/assets/8fc92273-430b-42d5-aef0-a4cde967bf13" />
+
 * LibGDX
 * Del projekta rocksolid (trije člani)
-<img width="871" height="499" alt="image" src="https://github.com/user-attachments/assets/8fc92273-430b-42d5-aef0-a4cde967bf13" />
+
+
+### Adnroid aplikacije...
+* V sklopu šole sem implementiral tudi razne android aplikacije v programskem jeziku Kotlin
