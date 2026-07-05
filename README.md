@@ -4,7 +4,7 @@
 * Delo v sklopu projekta https://lhrs.feri.um.si/en/projects/projects-in-implementation/slovenian-reference-genomic-project/
 * Razvoj programski orodij za pomoč pri genski analizi za UKC LJ
 
-### Modifikacije odprto kodnega orodja scout
+### Modifikacije odprto kodnega orodja scout, ki se uporablja za analizo genov
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/f86bd964-7516-4d52-a682-885501a612e3" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/cffe6944-40e6-4bf0-94a1-cb27700615aa" />
 
@@ -19,8 +19,17 @@
 * Dodajanje jasnih opozoril, da uporabniki ne razumejo delovanja in sprememb napačno.
 * Spreminjan projekt ima več kot 100 programskih datotek in 10000 sprememb.
 
+### Delo na orodju, za vodenje samega postopka analize, od zajema vzorcev naprej
 
+<img height="470" alt="image" src="https://github.com/user-attachments/assets/5b1914dc-f8e3-4959-96cf-66ab6e4936b9" />
 
+<img height="350" alt="image" src="https://github.com/user-attachments/assets/a9be80d1-7111-471f-a93d-c4053d44b20f" />
+
+* Tukaj smo delali na našem orodju, za vodenja postpoka analize skozi različna stanja.
+* Orodje je narejeno v VueJs, PrimeVue, GraphQL, Molgenihs, PostgreSQL
+* Sam sem delal na strežniški paginaciji strani, tukaj je potem bilo potrebno vse funkcionalnosti, ki so bile narejene na čelnem delu prestaviti na zaledni del (potrebno je bilo znova implementirati vso napredno filtriranje in sortiranje...)
+* Python scripte za polnjeje baze in testiranje hitrost delovanja aplikacije, kot tudi primerjave raznih operacij GraphQL.
+* Python skripte za odstranjevaje starih in nevalidnih podatkov.
 
 ## Privatni in šolski projekti
 ### Šah za več igralcev preko stražnika (TCP povezava)
@@ -38,6 +47,8 @@
 
 
 ### Rock solid project
+...
+
 ### Aktivni tempomat
 * Naredil sem aktivni tempomat, ki deluje na podlagi procesiranja slik.
 * Ta aktivni tempomat je bil vzpostavljen v simulaturju AIRSIM, kjer je moj program pridobival slike kamer in hitrostnega senzorja, s pomočjo teh podatkov pa je upravljal zavoro in pogon avtomobila.
