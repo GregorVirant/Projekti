@@ -15,11 +15,10 @@
 * Dodajanje sporočil za hranjenje zgodovine sprememb.
 * Možnosti izvozov, novih po meri narejenjih poročil, glede stanja in zgodovine analiziranega primera.
 * Projekt je narejen v Python, Flask, Jinja, MongoDB, grajenje in povezava z drugmi projekti pa preko Docker in docker-compose.
-* Spreminjan projekt ima več kot 100 programskih datotek in 10000 sprememb.
 * Povezovanje Scout z drugimi aplikacijami, kot so gens s pomočjo docker-compose. Tukaj sem konfiguriral skupno avtentikacijo z Ldap strežnikom.
 * Dodajanje jasnih opozoril, da uporabniki ne razumejo delovanja in sprememb napačno.
-<img height="250" alt="image" src="https://github.com/user-attachments/assets/a39101a3-b3fe-4d50-a508-080fb62a4afe" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/9356f0a9-acff-4efa-9a92-d76d3467c71d" />
+* Spreminjan projekt ima več kot 100 programskih datotek in 10000 sprememb.
+
 
 
 
