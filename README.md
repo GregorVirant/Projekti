@@ -74,12 +74,19 @@
 * Vse fizike sem napisal sam
 * Vse texture sem narisal ročno
 
+### Aplikacija alarm za terminal (TUI)
+<img width="352" height="277" alt="image" src="https://github.com/user-attachments/assets/018de01d-cf43-484a-9721-2d36788f51cb" />
+
+* Aplikacija narejena v C++ s knjižnico Ncurses.
+* Uporabnik v terminalu požene aplikacijo, po njej pa se lahko premika z puščicami ali pa vim tipkami, celotno aplikacijo lahko kontrolira s tipkovnico
+* Dodajanje, odstranjevanje, urejanje alarmov
+* Alarmi so lahko ponovljivi ali ne, prav tako jih je možno izklopiti in vklopiti
+
 ### 4 v vrsto in alfa-beta minmax
 * implementirana igra štiri v vrsto v kateri igramo proti računalniškem nasprotniku
 * alfa-beta minmax algoritem za nasprotnika
 * razne hevristične funkcije za izbolšanje nasprotnika
 <img width="549" height="761" alt="image" src="https://github.com/user-attachments/assets/a21efd15-99c0-4f46-84df-03b2fefdc7fa" />
-
 
 ### Nevronska mreža brez knjižnic
 * Program za zaznavo številk
