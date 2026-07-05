@@ -98,7 +98,7 @@
 * Del projekta rocksolid (trije člani)
 * Flask za vzpostavitev strežnika
 
-## Igra vojak
+## Igra vitez
 
 <img width="1274" height="719" alt="image" src="https://github.com/user-attachments/assets/0e49d52b-d65a-48f4-a1ce-e25e417c07e6" />
 
