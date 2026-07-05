@@ -52,6 +52,9 @@
 ### Igre
 ...
 
+
+
+
 ### Aktivni tempomat
 * Naredil sem aktivni tempomat, ki deluje na podlagi procesiranja slik.
 * Ta aktivni tempomat je bil vzpostavljen v simulaturju AIRSIM, kjer je moj program pridobival slike kamer in hitrostnega senzorja, s pomočjo teh podatkov pa je upravljal zavoro in pogon avtomobila.
@@ -72,15 +75,30 @@
 * V igri se lahko igralac spremeni v druge objekte, kot so naprimer meč ali pa žoga, ki pleza po zidu.
 * Uporablja Python in le knjižnico PyGame
 * Vse fizike sem napisal sam
-* Vse texture sem narisal ročno
+* Vse texture sem narisal ročno  
 
-### Aplikacija alarm za terminal (TUI)
+### Igra vojak
+* Vitezev cilj je razbiti čim večje število kock
+* Nekatere lahko razbije nekaterih ne more
+* Igra vsebuje tudi razne powerup-e kot so explozije
+* Vse spremembe so animirane, med animacijami se dinamično premikajo tudi točke za zaznavo kontaktov (hitboxi)
+* Implementirano v Java in LibGDX
+<img width="1274" height="719" alt="image" src="https://github.com/user-attachments/assets/0e49d52b-d65a-48f4-a1ce-e25e417c07e6" />
+
+### Alarm za terminal (TUI)
 <img width="352" height="277" alt="image" src="https://github.com/user-attachments/assets/018de01d-cf43-484a-9721-2d36788f51cb" />
 
 * Aplikacija narejena v C++ s knjižnico Ncurses.
 * Uporabnik v terminalu požene aplikacijo, po njej pa se lahko premika z puščicami ali pa vim tipkami, celotno aplikacijo lahko kontrolira s tipkovnico
 * Dodajanje, odstranjevanje, urejanje alarmov
 * Alarmi so lahko ponovljivi ali ne, prav tako jih je možno izklopiti in vklopiti
+
+### Media player
+<img width="977" height="530" alt="image" src="https://github.com/user-attachments/assets/00e125bf-569e-4746-8e77-9d1e35c4b24b" />
+<img width="399" height="290" alt="image" src="https://github.com/user-attachments/assets/bdb066ee-aa49-4d7a-a437-c9330a7c66e7" />
+
+* Implementiran v C# in WPF
+* Dinamična povezava podatkov, ob spreminjanja v edit oknu se aktivno spreminja vsebina v glavnem oknu.
 
 ### 4 v vrsto in alfa-beta minmax
 * implementirana igra štiri v vrsto v kateri igramo proti računalniškem nasprotniku
@@ -103,7 +121,6 @@
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/22eff3e5-7bfc-4558-96c6-dd68a550fb62" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fff434ca-a0e6-449e-84a6-7ac5941ebe69" />
 
-
 ### Projekt v večji skupini
 * Testni projekt, za vajo sodelovanja
 * Skupina 15 ljudi
@@ -111,4 +128,6 @@
 * Postavljanje nalog, pregledi  pisanje poročil
 * Implementirali smo spletno in mobilno aplikacijo za hranjenje receptov in stanja sestavin v naši shrambi.
 
+### Electron media player
+<img width="933" height="482" alt="image" src="https://github.com/user-attachments/assets/121be441-a449-45cf-9655-e75c01b0c1f7" />
 
