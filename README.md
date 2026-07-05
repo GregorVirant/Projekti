@@ -45,16 +45,6 @@
 * Poskrbeli smo tudi, da če en uporabnik izgubi povezavo se v igro še lahko nekaj časa vrne, preden se ta konča.
 * Ta projekt je bil implementiran v skupini treh.
 
-
-### Rock solid project
-...
-
-### Igre
-...
-
-
-
-
 ### Aktivni tempomat
 * Naredil sem aktivni tempomat, ki deluje na podlagi procesiranja slik.
 * Ta aktivni tempomat je bil vzpostavljen v simulaturju AIRSIM, kjer je moj program pridobival slike kamer in hitrostnega senzorja, s pomočjo teh podatkov pa je upravljal zavoro in pogon avtomobila.
@@ -92,6 +82,31 @@
 * Uporabnik v terminalu požene aplikacijo, po njej pa se lahko premika z puščicami ali pa vim tipkami, celotno aplikacijo lahko kontrolira s tipkovnico
 * Dodajanje, odstranjevanje, urejanje alarmov
 * Alarmi so lahko ponovljivi ali ne, prav tako jih je možno izklopiti in vklopiti
+
+### Admin aplikacije za urejanje podatkov o plezališčih v sloveniji in pridobivanje podatkov o plezališčih iz drugih strani
+* Omogoča pregled in urejanje podatkov v naši bazi
+* Vsebuje "web-scraper" za pridobivanje podatkov o plezališčih iz drugih straneh
+* Generator testnih podatkov
+* Implementirano v Kotlin in Kotlin Multiplatform
+<img width="829" height="670" alt="image" src="https://github.com/user-attachments/assets/a598c098-9f2c-408f-9216-6fdd2d0040d0" />
+
+### Spletna stran s plezališči v sloveniji
+* Prikaz plezališč in plezalnih poti v slovenskih plezališčih
+* Združevanje uporabnikov v plezalne skupine
+* NodeJS, Express, ReactJS
+<img width="2101" height="763" alt="image" src="https://github.com/user-attachments/assets/44343795-20ab-49c4-b83d-6bac78b8c7bb" />
+
+### Zaznava plezalnih oprimkov na plezalni steni
+* Dodatno treniranje YOLO modela
+* Del projekta rocksolid (trije člani)
+* Flask za vzpostavitev strežnika
+<img width="565" height="761" alt="image" src="https://github.com/user-attachments/assets/74d0b722-58ca-44e3-95b0-11bc6a176608" />
+
+### Igra kače in lojtre 
+<img width="1274" height="712" alt="image" src="https://github.com/user-attachments/assets/acd6f721-2302-4e30-ad93-120a56e89a7b" />
+<img width="1281" height="715" alt="image" src="https://github.com/user-attachments/assets/3d0b4e54-e02f-44de-95c4-c4f4c20da71e" />
+
+* Implementirano v Javi in LibGDX
 
 ### Media player
 <img width="977" height="530" alt="image" src="https://github.com/user-attachments/assets/00e125bf-569e-4746-8e77-9d1e35c4b24b" />
@@ -131,3 +146,7 @@
 ### Electron media player
 <img width="933" height="482" alt="image" src="https://github.com/user-attachments/assets/121be441-a449-45cf-9655-e75c01b0c1f7" />
 
+Prikaz števil ljudi na plezališčih na zemljevidu po katerem se premikamo v 3d prostoru
+* LibGDX
+* Del projekta rocksolid (trije člani)
+<img width="871" height="499" alt="image" src="https://github.com/user-attachments/assets/8fc92273-430b-42d5-aef0-a4cde967bf13" />
