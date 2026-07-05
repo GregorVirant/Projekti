@@ -64,10 +64,22 @@
 * Potem pa sem z nekaj funkcijami upravljal spremembe hitrosti avta in po potrebi varnostno zaviranje.
 <img width="1202" height="731" alt="image" src="https://github.com/user-attachments/assets/85852fb4-ba4c-4cf3-8cf6-2a7c3f5b49a3" />
 
+
+### Projekt matura - Video igra Preobrazba
+<img width="1804" height="1018" alt="image" src="https://github.com/user-attachments/assets/a338a99a-3b10-49d5-968a-f0620d387ee0" />
+
+* Igra, ki sem jo implementiral v srednji šoli
+* V igri se lahko igralac spremeni v druge objekte, kot so naprimer meč ali pa žoga, ki pleza po zidu.
+* Uporablja Python in le knjižnico PyGame
+* Vse fizike sem napisal sam
+* Vse texture sem narisal ročno
+
 ### 4 v vrsto in alfa-beta minmax
-* alfa-beta minmax
+* implementirana igra štiri v vrsto v kateri igramo proti računalniškem nasprotniku
+* alfa-beta minmax algoritem za nasprotnika
 * razne hevristične funkcije za izbolšanje nasprotnika
 <img width="549" height="761" alt="image" src="https://github.com/user-attachments/assets/a21efd15-99c0-4f46-84df-03b2fefdc7fa" />
+
 
 ### Nevronska mreža brez knjižnic
 * Program za zaznavo številk
