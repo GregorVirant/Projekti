@@ -1,5 +1,30 @@
 # Projekti
-## Šah za več igralcev preko stražnika (TCP povezava)
+
+## Projekti na delu
+* Delo v sklopu projekta https://lhrs.feri.um.si/en/projects/projects-in-implementation/slovenian-reference-genomic-project/
+* Razvoj programski orodij za pomoč pri genski analizi za UKC LJ
+
+### Modifikacije odprto kodnega orodja scout
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/f86bd964-7516-4d52-a682-885501a612e3" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/cffe6944-40e6-4bf0-94a1-cb27700615aa" />
+
+* Sam sem naredil okoli 70 sprememb in novih funkcionalnosti.
+* Nove strani, s paginacijo in filtri po meri.
+* Nekatere strani popolnoma spremenjene, da so bolj uporabne (npr. dodana strežniška paginacja, funkcionalnosti in izgled po meri)
+* Prilagojene ključne funkcionalnosti, za zahteve naših uporabnikov, ki so popolnoma drugačne, kot tiste za katere je to orodoje bilo najprej razvito.
+* Dodajanje sporočil za hranjenje zgodovine sprememb.
+* Možnosti izvozov, novih po meri narejenjih poročil, glede stanja in zgodovine analiziranega primera.
+* Projekt je narejen v Python, Flask, Jinja, MongoDB, grajenje in povezava z drugmi projekti pa preko Docker in docker-compose.
+* Spreminjan projekt ima več kot 100 programskih datotek in 10000 sprememb.
+* Povezovanje Scout z drugimi aplikacijami, kot so gens s pomočjo docker-compose. Tukaj sem konfiguriral skupno avtentikacijo z Ldap strežnikom.
+* Dodajanje jasnih opozoril, da uporabniki ne razumejo delovanja in sprememb napačno.
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/a39101a3-b3fe-4d50-a508-080fb62a4afe" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/9356f0a9-acff-4efa-9a92-d76d3467c71d" />
+
+
+
+## Privatni in šolski projekti
+### Šah za več igralcev preko stražnika (TCP povezava)
 
 <img width="600" alt="slika_igre" src="https://github.com/user-attachments/assets/2a6c1f1d-760b-4631-b7bb-b1ec9f333529" />
 
@@ -13,8 +38,8 @@
 * Ta projekt je bil implementiran v skupini treh.
 
 
-## Rock solid project
-## Aktivni tempomat
+### Rock solid project
+### Aktivni tempomat
 * Naredil sem aktivni tempomat, ki deluje na podlagi procesiranja slik.
 * Ta aktivni tempomat je bil vzpostavljen v simulaturju AIRSIM, kjer je moj program pridobival slike kamer in hitrostnega senzorja, s pomočjo teh podatkov pa je upravljal zavoro in pogon avtomobila.
 * Tempomat je vzdževal časovno razdaljo med 2 in 3 sekunde.
@@ -26,17 +51,17 @@
 * Potem pa sem z nekaj funkcijami upravljal spremembe hitrosti avta in po potrebi varnostno zaviranje.
 <img width="1202" height="731" alt="image" src="https://github.com/user-attachments/assets/85852fb4-ba4c-4cf3-8cf6-2a7c3f5b49a3" />
 
-# 4 v vrsto in alfa-beta minmax
+### 4 v vrsto in alfa-beta minmax
 * alfa-beta minmax
 * razne hevristične funkcije za izbolšanje nasprotnika
 <img width="549" height="761" alt="image" src="https://github.com/user-attachments/assets/a21efd15-99c0-4f46-84df-03b2fefdc7fa" />
 
-## Nevronska mreža brez knjižnic
+### Nevronska mreža brez knjižnic
 * Program za zaznavo številk
 * Implementirane (Xavier inicializacija in Sigmoid, He inicializacija in Relu, MSE Izgubna funkcija, Softmax, kategorična križna entropija)
 <img width="447" height="474" alt="image" src="https://github.com/user-attachments/assets/99c09881-9a43-4b8d-a52f-39db8684aadf" />
 
-## Q-Učenje
+### Q-Učenje
 * Implementacija Q-učenja
 * Prilagajanje Q-učenja za razne igre
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/14266c63-04a3-4c31-afe6-06ce0c47c964" />
@@ -47,7 +72,7 @@
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fff434ca-a0e6-449e-84a6-7ac5941ebe69" />
 
 
-## Projekt v večji skupini
+### Projekt v večji skupini
 * Testni projekt, za vajo sodelovanja
 * Skupina 15 ljudi
 * Tukaj sem izvajajl postavlanje nalog, pregled sprememb, pisanje sporočil
