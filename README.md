@@ -49,6 +49,9 @@
 ### Rock solid project
 ...
 
+### Igre
+...
+
 ### Aktivni tempomat
 * Naredil sem aktivni tempomat, ki deluje na podlagi procesiranja slik.
 * Ta aktivni tempomat je bil vzpostavljen v simulaturju AIRSIM, kjer je moj program pridobival slike kamer in hitrostnega senzorja, s pomočjo teh podatkov pa je upravljal zavoro in pogon avtomobila.
