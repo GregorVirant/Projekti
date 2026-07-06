@@ -82,7 +82,7 @@
 * Omogoča pregled in urejanje podatkov v naši bazi
 * Vsebuje "web-scraper" za pridobivanje podatkov o plezališčih iz drugih straneh
 * Generator testnih podatkov
-* Implementirano v Kotlin in Kotlin Multiplatform
+* Implementirano v Kotlin in Kotlin Multiplatform, Selenium, Jsoup, Material, Mongo, OkHttp
 
 ## Spletna stran s plezališči v sloveniji
 
