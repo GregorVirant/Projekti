@@ -79,6 +79,7 @@
 ## Admin aplikacije za urejanje podatkov o plezališčih v sloveniji in pridobivanje podatkov o plezališčih iz drugih strani
 
 <img width="829" height="670" alt="image" src="https://github.com/user-attachments/assets/a598c098-9f2c-408f-9216-6fdd2d0040d0" />
+
 * Omogoča pregled in urejanje podatkov v naši bazi
 * Vsebuje "web-scraper" za pridobivanje podatkov o plezališčih iz drugih straneh
 * Generator testnih podatkov
@@ -87,6 +88,7 @@
 ## Spletna stran s plezališči v sloveniji
 
 <img width="2101" height="763" alt="image" src="https://github.com/user-attachments/assets/44343795-20ab-49c4-b83d-6bac78b8c7bb" />
+
 * Prikaz plezališč in plezalnih poti v slovenskih plezališčih
 * Združevanje uporabnikov v plezalne skupine
 * NodeJS, Express, ReactJS
@@ -94,6 +96,7 @@
 ## Zaznava plezalnih oprimkov na plezalni steni
 
 <img width="565" height="761" alt="image" src="https://github.com/user-attachments/assets/74d0b722-58ca-44e3-95b0-11bc6a176608" />
+
 * Dodatno treniranje YOLO modela
 * Del projekta rocksolid (trije člani)
 * Flask za vzpostavitev strežnika
